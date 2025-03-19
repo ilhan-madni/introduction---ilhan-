@@ -1,2 +1,5 @@
 # introduction---ilhan-
-my first repositry
+my first Repository
+
+Author:- Ilhan Madni
+
